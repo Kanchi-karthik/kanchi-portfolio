@@ -1,45 +1,115 @@
-# KANCHI KARTHIK - Portfolio
+# KANCHI KARTHIK
+**Computer Science Engineer | Full Stack Developer | Security & Cloud Computing Enthusiast**
 
-A modern, dark-mode-first portfolio website for KANCHI KARTHIK, a Software Developer specializing in Java and MERN Stack Development.
+📧 [kanchikarthik27798@gmail.com](mailto:kanchikarthik27798@gmail.com) | 📱 +91 88858 28678 | 📍 Nellore, Andhra Pradesh, India  
+🔗 [GitHub](https://github.com/Kanchi-karthik) | [LinkedIn](https://linkedin.com/in/kanchi-karthik)
 
-## Features
+---
 
-- **Modern Dark Mode Design**: Clean, professional dark theme with light mode toggle
-- **Responsive Layout**: Fully responsive design that works on all devices
-- **Smooth Animations**: Framer Motion animations for enhanced user experience
-- **Performance Optimized**: Fast loading and optimized for recruiter viewing
-- **ATS-Friendly**: Structured content for Applicant Tracking Systems
+## 📋 PROFESSIONAL SUMMARY
 
-## Sections
+Computer Science Engineer with M.Tech qualification specializing in Full Stack Development, Kubernetes security, and IoT solutions. Proven expertise in designing and implementing scalable web applications, cloud infrastructure security, and distributed systems. Passionate about solving complex technical challenges with innovative solutions.
 
-1. **Hero Section**: Name, role, value statement, and CTAs
-2. **About Me**: Technical background and career focus
-3. **Technical Skills**: Grouped skills with ATS-friendly presentation
-4. **Featured Projects**: Showcase of key projects with descriptions
-5. **Coding Profiles**: Links to GitHub, LeetCode, HackerRank
-6. **Education & Experience**: Timeline of academic and professional history
-7. **Achievements**: Recognition and accomplishments
-8. **Resume**: Downloadable resume section
-9. **Contact**: Form and contact information
-10. **Footer**: Copyright and theme toggle
+---
 
-## Tech Stack
+## 🎓 EDUCATION
 
-- **Frontend**: React.js with Vite
-- **Styling**: Tailwind CSS
-- **Animations**: Framer Motion
+**Master of Technology (M.Tech) in Computer Science Engineering**  
+*7.2 CGPA* | 2023-2025
+
+**Bachelor of Technology in Computer Science Engineering**  
+*8.65 CGPA (Gold Medalist)* | 2019-2023
+
+---
+
+## 💼 TECHNICAL SKILLS
+
+**Languages**: Java, Python, JavaScript, C/C++, SQL  
+**Frontend**: React.js, HTML5, CSS3, Tailwind CSS, Framer Motion, Vite  
+**Backend**: Node.js, Express.js, Django, Spring Boot  
+**Databases**: MongoDB, MySQL, PostgreSQL  
+**Cloud & DevOps**: Docker, Kubernetes, Azure, AWS, Git  
+**Tools & Platforms**: Linux, VS Code, Postman, JIRA  
+**Specializations**: Full Stack Development, Kubernetes Security, IoT Solutions, REST APIs
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+### 1. **Runtime Detection of LOTL Attacks in Kubernetes**
+*Security Analysis & Container Orchestration*
+- Developed real-time detection mechanisms for Living-off-the-Land (LOTL) attacks in Kubernetes clusters
+- Implemented anomaly detection using machine learning models
+- [GitHub Repository](https://github.com/Kanchi-karthik/LOTL)
+
+### 2. **Citizen Department Portal**
+*Full Stack Web Application*
+- Built a comprehensive portal for citizen services and government interactions
+- Implemented user authentication and role-based access control
+- [GitHub Repository](https://github.com/Kanchi-karthik/Citizen_Dept)
+
+### 3. **Innovatix**
+*Innovation Management Platform*
+- Created a collaborative platform for innovation tracking and project management
+- Integrated real-time notifications and team collaboration features
+- [GitHub Repository](https://github.com/Kanchi-karthik/Innovatix)
+
+### 4. **CareCart – Healthcare Management System**
+*Healthcare Technology*
+- Developed a comprehensive healthcare management system with appointment scheduling and medical records
+- Implemented secure patient data handling and user-friendly interface
+- [GitHub Repository](https://github.com/Kanchi-karthik/CareCart)
+
+### 5. **Secure ESP32-IoT Communication**
+*Embedded Systems & IoT Security*
+- Built encrypted communication protocols for ESP32 microcontroller-based IoT devices
+- Implemented end-to-end encryption and secure authentication
+- [GitHub Repository](https://github.com/Kanchi-karthik/Secure_ESP32-IoT_Communication)
+
+---
+
+## 🏆 ACHIEVEMENTS & RECOGNITIONS
+
+- **Gold Medal for Academic Excellence** (2023) - Recognition for outstanding academic performance
+- **Hackathon Finalist** - Techspardha (Excalibur) 2025 - Recognized innovative solutions at prestigious hackathon
+
+---
+
+## 📂 PORTFOLIO WEBSITE
+
+This repository contains my professional portfolio website showcasing projects, skills, and experience.
+
+### Features
+- **Light Theme Design**: Clean, professional interface with responsive layout
+- **Project Showcase**: Featured projects with descriptions and GitHub links
+- **Resume Download**: Direct PDF resume download functionality
+- **Responsive**: Fully optimized for desktop, tablet, and mobile devices
+- **Performance**: Fast loading with Vite and optimized assets
+
+### Tech Stack
+- **Frontend**: React 18.2.0
+- **Build Tool**: Vite 7.3.0
+- **Styling**: Tailwind CSS 3.3.5
+- **Animations**: Framer Motion 10.16.4
 - **Icons**: Lucide React
-- **Fonts**: Inter and JetBrains Mono
-- **Deployment**: Vercel or Netlify ready
+- **Routing**: React Router DOM 7.11.0
 
-## Installation
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v16 or higher)
+- npm or yarn
+
+### Installation
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Kanchi-karthik/kanchi-portfolio.git
 
 # Navigate to the project directory
-cd portfolio
+cd kanchi-portfolio
 
 # Install dependencies
 npm install
@@ -47,6 +117,40 @@ npm install
 # Start the development server
 npm run dev
 ```
+
+The portfolio will be available at `http://localhost:5175/`
+
+### Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## 📄 Resume
+
+Download my full resume: [Kanchi_Karthik_Resume.pdf](./public/Kanchi_Karthik.pdf)
+
+---
+
+## 📞 Contact & Connect
+
+I'm always interested in discussing new projects, opportunities, and innovative ideas.
+
+- **Email**: [kanchikarthik27798@gmail.com](mailto:kanchikarthik27798@gmail.com)
+- **GitHub**: [github.com/Kanchi-karthik](https://github.com/Kanchi-karthik)
+- **LinkedIn**: [linkedin.com/in/kanchi-karthik](https://linkedin.com/in/kanchi-karthik)
+
+---
+
+## 📝 License
+
+This project is open source and available under the MIT License.
+
+---
+
+**Last Updated**: April 2026
 
 ## Build for Production
 
