@@ -16,7 +16,7 @@ import InfiniteSkills from './components/InfiniteSkills';
 
 function App() {
   return (
-    <div className="min-h-screen bg-gray-50 text-gray-900 transition-colors duration-300">
+    <div className="min-h-screen bg-white text-gray-900 transition-colors duration-300">
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/portfolio" element={

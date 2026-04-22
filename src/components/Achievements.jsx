@@ -17,20 +17,6 @@ const Achievements = () => {
       title: "Hackathon Finalist - Techspardha (Excalibur)",
       description: "Recognized among the top teams for AI-powered tool development at NIT Kurukshetra.",
       date: "2025"
-    },
-    {
-      id: 3,
-      icon: <Award className="text-green-500" size={24} />,
-      title: "Selected Participant - IIIT Bangalore Hackathon",
-      description: "Qualified for the competitive national-level hackathon at IIIT Bangalore.",
-      date: "2025"
-    },
-    {
-      id: 4,
-      icon: <BadgeCheck className="text-blue-500" size={24} />,
-      title: "Full Stack Certification Specialist",
-      description: "Achieved professional certifications in Java Full Stack and Data Structures.",
-      date: "2024-2025"
     }
   ];
 

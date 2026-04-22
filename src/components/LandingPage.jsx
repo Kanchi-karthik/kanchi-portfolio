@@ -34,9 +34,6 @@ const LandingPage = () => {
             KANCHI KARTHIK
           </div>
           <div className="flex space-x-4">
-            <a href="mailto:kanchikarthik27798@gmail.com" className="p-2 rounded-full bg-white shadow-sm hover:shadow-md transition-shadow">
-              <Mail className="w-5 h-5 text-gray-600" />
-            </a>
             <a href="https://github.com/Kanchi-karthik" target="_blank" rel="noopener noreferrer" className="p-2 rounded-full bg-white shadow-sm hover:shadow-md transition-shadow">
               <Github className="w-5 h-5 text-gray-600" />
             </a>
@@ -110,13 +107,7 @@ const LandingPage = () => {
               </button>
             </motion.div>
 
-            {/* Quick Links */}
-            <div className="flex flex-wrap justify-center gap-4 text-sm">
-              <a href="mailto:kanchikarthik27798@gmail.com" className="text-gray-600 hover:text-primary-600 transition-colors flex items-center">
-                <Mail className="mr-1" size={16} />
-                Contact Me
-              </a>
-            </div>
+
           </div>
         </div>
       </main>

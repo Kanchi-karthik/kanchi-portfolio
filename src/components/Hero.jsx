@@ -103,7 +103,7 @@ const Hero = () => {
             className="flex justify-center"
           >
             <div className="relative">
-              <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white shadow-2xl relative">
+              <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-white shadow-lg">
                 <img 
                   src="/images/Karthik.jpg" 
                   alt="Kanchi Karthik" 
@@ -119,7 +119,7 @@ const Hero = () => {
                   <User size={80} className="text-white" />
                 </div>
               </div>
-              <div className="absolute -bottom-4 -right-4 bg-white px-6 py-2 rounded-full shadow-lg border border-gray-200">
+              <div className="absolute -bottom-4 -right-4 bg-white px-6 py-2 rounded-full shadow-md border border-gray-200">
                 <span className="font-bold text-primary-600">7.2 CGPA (M.Tech)</span>
               </div>
             </div>

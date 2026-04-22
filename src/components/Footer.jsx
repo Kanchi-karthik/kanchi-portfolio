@@ -91,8 +91,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="border-t border-gray-800 pt-8 text-center">
           <p className="text-gray-400">
-            © {currentYear} Kanchi Karthik. All rights reserved. Made with{' '}
-            <Heart className="inline text-red-500" size={16} /> using React & Tailwind CSS.
+            © {currentYear} Kanchi Karthik. All rights reserved.
           </p>
         </div>
       </div>
